@@ -1,1 +1,28 @@
+Data Source:  https://cris.dot.state.tx.us/public/Query/app/
 
+Each CSV contains records of speed related crashes in Texas for that year. 
+
+For reference, below is a list of columns, along with an example of the data:
+
+Crash ID	14838809
+Agency	Dallas Police Department
+City	Dallas
+County	Dallas
+Crash Death Count	0
+Crash Severity	Possible Injury
+Crash Time	643
+Crash Total Injury Count	1
+Crash Year	2016
+Day of Week	Friday
+Latitude	32.77109499
+Longitude	-96.76616498
+Manner of Collision	One Motor Vehicle - Turning Right
+Population Group	250,000 Pop And Over
+Road Class	City Street
+Speed Limit	35
+Weather Condition	Cloudy
+Vehicle Color	Black
+Person Age	58
+Person Ethnicity	Black
+Person Gender	Male
+Person Type	Driver
