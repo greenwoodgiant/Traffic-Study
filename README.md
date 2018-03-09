@@ -2,7 +2,7 @@
     Traffic Stops and Accidents
 
 # 2. Team Members: 
-    Jen, Chris, Anh, Steven
+    Jen V, Chris, Anh, Steven
 
 # 3. Project Description/Outline
     Combine data on traffic stops in the United States with contemporary data on traffic accidents to determine any correlation.
